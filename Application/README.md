@@ -96,5 +96,5 @@
           spring.datasource.password=
       ```
     
-- Local환경에서 테스트 결과
-![LocalTest](./image/localtest.png)
+- ### Local 환경에서 테스트 결과
+  ![LocalTest](./image/localtest.png)
