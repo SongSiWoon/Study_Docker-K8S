@@ -95,6 +95,7 @@
           spring.datasource.username=woons
           spring.datasource.password=
       ```
+      - demo가 현재 내장되어진 tomcat의 기본인 8080 포트를 사용 중이기 때문에 domo2는 8081으로 설정한다
     
 - ### Local 환경에서 테스트 결과
   ![LocalTest](./image/localtest.png)

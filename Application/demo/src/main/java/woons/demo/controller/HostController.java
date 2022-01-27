@@ -16,7 +16,7 @@ import java.util.HashMap;
 public class HostController {
     public HashMap gethost(){
         URI url = UriComponentsBuilder
-                .fromUriString("http://localhost:8081")
+                .fromUriString("http://demo2:8081")
                 .path("/host")
                 .build().toUri();
 
